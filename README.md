@@ -2,6 +2,12 @@
 
 A packages that allows you to parse binarized VDF files into readable JSONs.
 
+## Installation
+
+### NPM
+
+`npm install steamvdf`
+
 ## Usage
 
 ### Typescript
