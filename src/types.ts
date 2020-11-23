@@ -1,5 +1,5 @@
 /** Node data */
-export type VdfNodeData = undefined | string | number;
+export type VdfNodeData = undefined | string | number | any;
 
 /** Node JSON */
 export type VdfNodeJson = {
