@@ -1,6 +1,6 @@
 {
     "name": "steamvdf",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "main": "dist/index.js",
     "types": "dist/index.d.ts",
     "description": "Parse binarized Valve's VDF files into JSON",
