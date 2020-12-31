@@ -24,6 +24,7 @@ on:
 jobs:
   analyze:
     name: Analyze
+    if: github.actor!= 'dependabot'
     runs-on: ubuntu-latest
 
     strategy:
